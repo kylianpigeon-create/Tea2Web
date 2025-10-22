@@ -1,0 +1,9 @@
+Chemin POIDS introuvable → recherche profonde
+✔ POIDS mis à jour
+Chemin DDM introuvable → recherche profonde
+✔ DDM mis à jour
+Chemin NLOT introuvable → recherche profonde
+✔ NLOT mis à jour
+Chemin ADRESSE introuvable → recherche profonde
+✔ ADRESSE (adresse) mise à jour
+✔ JPG exporté : C:\ps-helper\jobs\tea2_text_frV7BW\out\PROD_58_20251021_105832_modifie_export.jpg

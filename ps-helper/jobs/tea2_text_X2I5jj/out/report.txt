@@ -1,0 +1,6 @@
+Chemin POIDS introuvable → recherche profonde
+✔ POIDS mis à jour
+Skip DDM (vide)
+Skip NLOT (vide)
+Skip ADRESSE (vide)
+✔ JPG exporté : C:\ps-helper\jobs\tea2_text_X2I5jj\out\PROD_58_20251022_115902_modifie_export.jpg
